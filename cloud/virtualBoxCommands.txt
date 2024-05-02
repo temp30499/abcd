@@ -1,0 +1,25 @@
+preferaces-- network manger nat seting 
+nat for both pc
+
+
+1)command : ssh  
+	for checking ssh present or not
+	
+2)command : sudo apt install openssh-server
+	for installing ssh
+	
+3)command : sudo service ssh start
+	for staring ssh 
+	
+4)command : sudo service ssh status
+	for checking ssh staus i.e. running or not
+
+5)command : touch filename
+	for creating file
+
+6)command : ifconfig
+	for viewing ip address
+	
+7)command : scp filename usernameOfAnotherPc@ip_Of_Another_Pc:Another_Machine_PathTo_Save
+	for transfering file to other virtual machine
+
