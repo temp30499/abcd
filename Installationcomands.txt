@@ -1,0 +1,49 @@
+to run angular 
+
+npm i
+ng serve
+----------------
+install angular
+
+npm install -g @angular/cli@latest
+
+
+-------------------------
+
+file transfer
+
+
+https://app.vagrantup.com/bento/boxes/ubuntu-16.04?page=2
+
+
+------------------------------
+
+file transfer
+
+login-vagrant
+pass- vagrant
+
+ifconfig
+
+{
+ls
+touch abc.txt
+nano abc.txt
+
+ctrX ctrX
+
+cat abc.txt
+
+}
+
+scp abc.txt vagrant@{ipAddressofVM2}:/home/vagrant
+
+
+--------------------------------
+
+cloud computing code
+
+https://bit.ly/gitSumit
+
+
+---------------------------
